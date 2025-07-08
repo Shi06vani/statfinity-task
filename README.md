@@ -1,14 +1,16 @@
 
 
 ## Getting Started
+1. Go to the root folder
+-> cd statfinity-task
+If already in the root folder, don't need to go to the root folder
 
-First,install and  run the development server:
+2. Install and  run the development server:
 
-```bash
 npm install
 npm run dev
 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
