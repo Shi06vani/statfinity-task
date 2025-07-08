@@ -7,8 +7,8 @@ If already in the root folder, don't need to go to the root folder
 
 2. Install and  run the development server:
 
-npm install
-npm run dev
+-> npm install
+-> npm run dev
 
 ```
 
