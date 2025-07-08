@@ -2,9 +2,11 @@
 
 ## Getting Started
 1. Go to the root folder
+
+ ```bash
 -> cd statfinity-task
 
-   ```bash
+   
 
    
 If already in the root folder, don't need to go to the root folder
